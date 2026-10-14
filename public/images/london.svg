@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 330" role="img" aria-label="London placeholder">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8cc3ea"/><stop offset="1" stop-color="#fbd8a0"/></linearGradient></defs>
+  <rect width="320" height="330" fill="url(#g)"/>
+  <rect x="120" y="70" width="64" height="260" fill="#d49a4a"/>
+  <path d="M120 70l32-55 32 55z" fill="#b97d35"/>
+  <circle cx="152" cy="118" r="20" fill="#fdf0d0" stroke="#8a5b22" stroke-width="3"/>
+  <path d="M152 118v-12M152 118h9" stroke="#8a5b22" stroke-width="3" stroke-linecap="round"/>
+  <rect x="0" y="230" width="110" height="100" fill="#c58b45"/><rect x="190" y="215" width="130" height="115" fill="#c58b45"/>
+  <g fill="#e6a23c"><circle cx="270" cy="60" r="16"/><circle cx="296" cy="40" r="12"/><circle cx="240" cy="38" r="10"/></g>
+</svg>

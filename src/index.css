@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+/* Colors and fonts taken from the Jadoo Figma design */
+@theme {
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Volkhov", Georgia, serif;
+  --color-navy: #14183e;
+  --color-muted: #5e6282;
+  --color-coral: #df6951;
+  --color-salmon: #f9876f;
+  --color-sun: #f1a501;
+  --color-cream: #fff1da;
+  --color-deep: #006380;
+  --color-lilac: #f1f0fd;
+  --color-violet: #5e50e6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-navy);
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Prevent decorative shapes from causing horizontal scroll */
+html,
+body {
+  overflow-x: clip;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-violet);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

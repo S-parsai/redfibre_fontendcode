@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="Greece placeholder">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6fb8ee"/><stop offset="1" stop-color="#d9efff"/></linearGradient></defs>
+  <rect width="320" height="180" fill="url(#g)"/>
+  <path d="M0 180V110q80-20 160 0t160-10v80z" fill="#f6f6f6"/>
+  <g><rect x="40" y="95" width="60" height="50" fill="#fff"/><path d="M40 95a30 30 0 0 1 60 0z" fill="#2b6fd6"/>
+  <rect x="200" y="85" width="70" height="60" fill="#fff"/><path d="M200 85a35 35 0 0 1 70 0z" fill="#2b6fd6"/></g>
+  <circle cx="165" cy="105" r="9" fill="#e63b4a"/><path d="M165 114l-9 30h18z" fill="#e63b4a"/>
+</svg>

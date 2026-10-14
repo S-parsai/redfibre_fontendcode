@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 330" role="img" aria-label="Rome placeholder">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fb7e8"/><stop offset="1" stop-color="#f6e3c3"/></linearGradient></defs>
+  <rect width="320" height="330" fill="url(#g)"/>
+  <ellipse cx="80" cy="60" rx="60" ry="18" fill="#fff" opacity=".8"/><ellipse cx="220" cy="90" rx="70" ry="16" fill="#fff" opacity=".7"/>
+  <path d="M0 330V170q160-40 320 0v160z" fill="#d9a35a"/>
+  <g fill="#b9803c">
+    <rect x="30" y="195" width="30" height="50" rx="15"/><rect x="80" y="190" width="30" height="55" rx="15"/><rect x="130" y="188" width="30" height="57" rx="15"/>
+    <rect x="180" y="190" width="30" height="55" rx="15"/><rect x="230" y="195" width="30" height="50" rx="15"/>
+    <rect x="30" y="265" width="30" height="45" rx="15"/><rect x="80" y="265" width="30" height="45" rx="15"/><rect x="130" y="265" width="30" height="45" rx="15"/>
+    <rect x="180" y="265" width="30" height="45" rx="15"/><rect x="230" y="265" width="30" height="45" rx="15"/>
+  </g>
+</svg>
