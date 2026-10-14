@@ -2,7 +2,7 @@
 
 A responsive, animated travel website built from the provided Figma design.
 
-**Live Preview:** _add your Vercel/Netlify link here_
+**Live Preview:** https://redfibre-fontendcode.vercel.app/
 
 ## Tech Stack
 - React 18 + Vite
